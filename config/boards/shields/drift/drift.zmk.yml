@@ -10,6 +10,7 @@ features:
   - display
   - encoder
   - underglow
+  - studio
 siblings:
   - drift_left
   - drift_right
